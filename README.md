@@ -1,1 +1,1 @@
-# Arts-Crafts-Website
+The "Arts & Crafts" website features various arts and crafts projects, showcasing animations and interactive elements. The site uses modern web technologies such as React, Lottie for animations, and Tailwind CSS for styling. It includes sections for different projects, user authentication, and a CRUD system for managing project entries. The site is visually appealing and user-friendly, with smooth navigation and responsive design.
